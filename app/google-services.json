@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256078564154",
+    "firebase_url": "https://foodthought-cfbbb.firebaseio.com",
+    "project_id": "foodthought-cfbbb",
+    "storage_bucket": "foodthought-cfbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256078564154:android:a9fca0dc30f15499",
+        "android_client_info": {
+          "package_name": "io.brink.thoughtfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256078564154-auqf42536c71evvdabciv2c29gi544el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.brink.thoughtfood",
+            "certificate_hash": "793c183292df64025f32711a8a5a81bb6f37be09"
+          }
+        },
+        {
+          "client_id": "256078564154-j96li50vq4m7rrdc3tj3d5bn2c0nus3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlS0uza91HmMehAdoMl4PmiI_Rel1sQbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256078564154-j96li50vq4m7rrdc3tj3d5bn2c0nus3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
